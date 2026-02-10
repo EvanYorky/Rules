@@ -1,4 +1,4 @@
-# 游戏下载走直连代理组
+#游戏下载直连规则集
   - DOMAIN,assets1.xboxlive.com
   - DOMAIN,assets2.xboxlive.com
   - DOMAIN,blizzard.gcdn.cloudn.co.kr
@@ -39,7 +39,7 @@
   - DOMAIN-SUFFIX,dyn.riotcdn.net
   - DOMAIN-SUFFIX,steamcontent.com
 
-# 公有云与骨干网走直连代理组
+#国内公有云与骨干网直连规则集
   - IP-CIDR,8.128.0.0/10,no-resolve
   - IP-CIDR,8.209.32.0/22,no-resolve
   - IP-CIDR,8.209.40.0/21,no-resolve
@@ -249,7 +249,7 @@
   - IP-CIDR,101.198.208.0/20,no-resolve
   - IP-CIDR,101.199.196.0/22,no-resolve
 
-#香港银行走直连代理组
+#香港银行直连规则集
   - DOMAIN-SUFFIX,cmbwinglungbank.com
   - DOMAIN-SUFFIX,za.group
   - DOMAIN-SUFFIX,welab.bank
@@ -258,7 +258,7 @@
   - DOMAIN-SUFFIX,mixpanel.com
   - DOMAIN-SUFFIX,sardine.ai
 
-#其余流量走直连代理组
+#其余流量直连规则集
   - DOMAIN-SUFFIX,1700.cn
   - DOMAIN-SUFFIX,17roco.com
   - DOMAIN-SUFFIX,700chat.com
@@ -4810,4 +4810,5 @@
   - IP-CIDR6,240e:f7:4f00:1f10::/60,no-resolve
   - IP-CIDR6,240e:f7:a070:100::/60,no-resolve
   - IP-CIDR6,240e:ff:9018:100::/60,no-resolve
+
   - IP-CIDR6,240e:ff:f100::/44,no-resolve
