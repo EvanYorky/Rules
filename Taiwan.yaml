@@ -1,13 +1,11 @@
-#雅虎走台湾代理组
-
+#雅虎规则集
   - DOMAIN-SUFFIX,tw
   - DOMAIN-SUFFIX,yahoo.com
   - DOMAIN-SUFFIX,yimg.com
   - DOMAIN-SUFFIX,yahoo.net
   - DOMAIN-SUFFIX,yahooapis.com
 
-#Line走台湾代理组
-
+#Line规则集
   - DOMAIN-SUFFIX,line-apps.com
   - DOMAIN-SUFFIX,line.me
   - DOMAIN-SUFFIX,line-scdn.net
