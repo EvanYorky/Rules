@@ -1,12 +1,14 @@
-#雅虎规则集
+payload:
+  # 雅虎 (包含所有 .tw 结尾域名)
   - DOMAIN-SUFFIX,tw
   - DOMAIN-SUFFIX,yahoo.com
   - DOMAIN-SUFFIX,yimg.com
   - DOMAIN-SUFFIX,yahoo.net
   - DOMAIN-SUFFIX,yahooapis.com
 
-#Line规则集
+  # Line
   - DOMAIN-SUFFIX,line-apps.com
   - DOMAIN-SUFFIX,line.me
   - DOMAIN-SUFFIX,line-scdn.net
   - DOMAIN-SUFFIX,ly.my.sentry.io
+
