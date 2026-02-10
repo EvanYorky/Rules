@@ -1,38 +1,34 @@
 #HBO规则集
-  - DOMAIN-SUFFIX.com
-  - DOMAIN-SUFFIXnow.com
-  - DOMAIN-SUFFIXmax.com
-  - DOMAIN-SUFFIXmaxcdn.com
+payload:
+  - DOMAIN-SUFFIX,hbo.com
+  - DOMAIN-SUFFIX,hbonow.com
+  - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN-SUFFIX,hbomaxcdn.com
   - DOMAIN,wmff.warnermediacdn.com
   - DOMAIN-SUFFIX,cinemax.com
   - DOMAIN-SUFFIX,discomax.com
   - DOMAIN-SUFFIX,h264.io
-  - DOMAIN-SUFFIXmax.com
-  - DOMAIN-SUFFIXmaxcdn.com
-  - DOMAIN-SUFFIXmaxdash.s.llnwi.net
-  - DOMAIN-SUFFIXnow.com
+  - DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
   - DOMAIN-SUFFIX,max.com
   - DOMAIN-SUFFIX,maxgo.com
   - PROCESS-NAME,com.hbo.hbonow
-  - DOMAIN,wmff.warnermediacdn.com
-  - DOMAIN-SUFFIXasia.com
-  - DOMAIN-SUFFIXasia1-i.akamaihd.net
-  - DOMAIN-SUFFIXasia2-i.akamaihd.net
-  - DOMAIN-SUFFIXasia3-i.akamaihd.net
-  - DOMAIN-SUFFIXasia4-i.akamaihd.net
-  - DOMAIN-SUFFIXasia5-i.akamaihd.net
-  - DOMAIN-SUFFIXasialive.akamaized.net
-  - DOMAIN-SUFFIXgo.co.th
-  - DOMAIN-SUFFIXgo.com
-  - DOMAIN-SUFFIXgo.eu
-  - DOMAIN-SUFFIXgoasia.com
-  - DOMAIN-SUFFIXgoasia.hk
-  - DOMAIN-SUFFIXgoasia.id
-  - DOMAIN-SUFFIXgoasia.ph
-  - DOMAIN-SUFFIXgoasia.sg
-  - DOMAIN-SUFFIXgoasia.tw
-  - DOMAIN-SUFFIXgoprod-vod.akamaized.net
-  - DOMAIN-SUFFIXmaxcdn.com
+  - DOMAIN-SUFFIX,hboasia.com
+  - DOMAIN-SUFFIX,hboasia1-i.akamaihd.net
+  - DOMAIN-SUFFIX,hboasia2-i.akamaihd.net
+  - DOMAIN-SUFFIX,hboasia3-i.akamaihd.net
+  - DOMAIN-SUFFIX,hboasia4-i.akamaihd.net
+  - DOMAIN-SUFFIX,hboasia5-i.akamaihd.net
+  - DOMAIN-SUFFIX,hboasialive.akamaized.net
+  - DOMAIN-SUFFIX,hbogo.co.th
+  - DOMAIN-SUFFIX,hbogo.com
+  - DOMAIN-SUFFIX,hbogo.eu
+  - DOMAIN-SUFFIX,hbogoasia.com
+  - DOMAIN-SUFFIX,hbogoasia.hk
+  - DOMAIN-SUFFIX,hbogoasia.id
+  - DOMAIN-SUFFIX,hbogoasia.ph
+  - DOMAIN-SUFFIX,hbogoasia.sg
+  - DOMAIN-SUFFIX,hbogoasia.tw
+  - DOMAIN-SUFFIX,hbogoprod-vod.akamaized.net
   - DOMAIN-SUFFIX,now-ashare.com
   - DOMAIN-SUFFIX,now-tv.com
   - DOMAIN-SUFFIX,now.com.hk
