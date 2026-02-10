@@ -1,13 +1,14 @@
-#香港购物规则集
+payload:
+  # 香港购物
   - DOMAIN-SUFFIX,hk
   - DOMAIN-SUFFIX,hktvmall.com
 
-#WhatsApp规则集
+  # WhatsApp
   - DOMAIN-SUFFIX,whatsapp.net
   - DOMAIN-SUFFIX,whatsapp.com
   - DOMAIN-SUFFIX,wa.me
 
-#Emby porn、Pikpak规则集
+  # Emby / Pikpak
   - DOMAIN-SUFFIX,mypikpak.com
   - DOMAIN-SUFFIX,emby.as174.com
   - DOMAIN-SUFFIX,mb3admin.com
