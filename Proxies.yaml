@@ -1,7 +1,6 @@
-#其余流量走Proxies代理
+#Proxies国外主流代理规则集
 
-#Tiktok走Proxies代理组
-
+#Tiktok规则集
   - DOMAIN,lf16-effectcdn.byteeffecttos-g.com
   - DOMAIN,lf16-pkgcdn.pitaya-clientai.com
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
@@ -31,8 +30,7 @@
   - DOMAIN-KEYWORD,tiktok
   - PROCESS-NAME,com.zhiliaoapp.musically
 
-#其它走Proxies代理
-
+#其它国外主流代理规则集
   - DOMAIN-SUFFIX,1password.com
   - DOMAIN-SUFFIX,adguard.org
   - DOMAIN-SUFFIX,bit.no.com
