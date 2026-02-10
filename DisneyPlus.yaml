@@ -1,5 +1,4 @@
-#Disney+走DisneyPlus代理组
-
+#DisneyPlus规则集
   - DOMAIN-SUFFIX.com
   - DOMAIN-SUFFIX,disney-plus.net
   - DOMAIN-SUFFIX,disneystreaming.com
@@ -8,4 +7,5 @@
   - DOMAIN,disney.api.edge.bamgrid.com
   - DOMAIN,disney.connections.edge.bamgrid.com
   - DOMAIN,disney.content.edge.bamgrid.com
+
   - DOMAIN,disney.playback.edge.bamgrid.com
