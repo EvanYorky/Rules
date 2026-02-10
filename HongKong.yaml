@@ -1,0 +1,16 @@
+#香港购物走香港代理组
+
+  - DOMAIN-SUFFIX,hk
+  - DOMAIN-SUFFIX,hktvmall.com
+
+#WhatsApp走香港代理组
+
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,wa.me
+
+#Emby porn、Pikpak走香港代理组
+
+  - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN-SUFFIX,emby.as174.com
+  - DOMAIN-SUFFIX,mb3admin.com

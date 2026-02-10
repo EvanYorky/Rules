@@ -1,0 +1,14 @@
+#雅虎走台湾代理组
+
+  - DOMAIN-SUFFIX,tw
+  - DOMAIN-SUFFIX,yahoo.com
+  - DOMAIN-SUFFIX,yimg.com
+  - DOMAIN-SUFFIX,yahoo.net
+  - DOMAIN-SUFFIX,yahooapis.com
+
+#Line走台湾代理组
+
+  - DOMAIN-SUFFIX,line-apps.com
+  - DOMAIN-SUFFIX,line.me
+  - DOMAIN-SUFFIX,line-scdn.net
+  - DOMAIN-SUFFIX,ly.my.sentry.io
