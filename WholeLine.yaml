@@ -1,4 +1,5 @@
 #无审计网站规则集
+payload:
   - DOMAIN-SUFFIX,voanews.com
   - DOMAIN-SUFFIX,voachinese.com
   - DOMAIN-SUFFIX,pincong.rocks
