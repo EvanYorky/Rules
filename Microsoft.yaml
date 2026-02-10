@@ -1,6 +1,7 @@
 #Microsoft走Microsoft代理组
+payload:
   - DOMAIN-KEYWORD,1drv
-  - DOMAIN-KEYWORD
+  - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,aadrm.com
   - DOMAIN-SUFFIX,acompli.com
   - DOMAIN-SUFFIX,acompli.net
