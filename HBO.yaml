@@ -1,5 +1,4 @@
-#HBO走HBO代理组
-
+#HBO规则集
   - DOMAIN-SUFFIX.com
   - DOMAIN-SUFFIXnow.com
   - DOMAIN-SUFFIXmax.com
@@ -38,4 +37,5 @@
   - DOMAIN-SUFFIX,now-tv.com
   - DOMAIN-SUFFIX,now.com.hk
   - DOMAIN-SUFFIX,nowe.com
+
   - DOMAIN-SUFFIX,nowe.hk
