@@ -1,5 +1,4 @@
-#AI走Proxies代理组
-
+#AI规则集
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,pplx.ai
@@ -62,4 +61,5 @@
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
   - DOMAIN,copilot.microsoft.com
+
   - DOMAIN-SUFFIX,chorus.sh,Proxies
