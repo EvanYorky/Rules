@@ -1,4 +1,5 @@
 #DisneyPlus规则集
+payload:
   - DOMAIN-SUFFIX,disneyplus.com,DisneyPlus
   - DOMAIN-SUFFIX,disney-plus.net,DisneyPlus
   - DOMAIN-SUFFIX,disneystreaming.com,DisneyPlus
