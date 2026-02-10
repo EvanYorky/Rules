@@ -1,5 +1,4 @@
-#被屏蔽网站走Whole line代理组
-
+#无审计网站规则集
   - DOMAIN-SUFFIX,voanews.com
   - DOMAIN-SUFFIX,voachinese.com
   - DOMAIN-SUFFIX,pincong.rocks
@@ -8,3 +7,4 @@
   - DOMAIN-SUFFIX,epochtimes.com
   - DOMAIN-SUFFIX,soundofhope.org
   - DOMAIN-SUFFIX,ntdtv.com
+
