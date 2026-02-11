@@ -315,11 +315,5 @@ payload:
   - DOMAIN-SUFFIX,lanzoux.com
   
 # 国内 IP 段
-  - IP-CIDR,1.255.62.0/24,no-resolve
   - IP-CIDR,101.32.104.0/21,no-resolve
-  - IP-CIDR,119.28.28.28/32,no-resolve
   - IP-CIDR,129.226.0.0/16,no-resolve
-  - IP-CIDR,183.128.0.0/11,no-resolve
-  - IP-CIDR,223.5.5.5/32,no-resolve
-  - IP-CIDR,223.6.6.6/32,no-resolve
-  - IP-CIDR,114.114.114.114/32,no-resolve
