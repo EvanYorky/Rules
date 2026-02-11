@@ -1,4 +1,3 @@
-#HBO规则集
 payload:
   - DOMAIN-SUFFIX,hbo.com
   - DOMAIN-SUFFIX,hbonow.com
@@ -34,3 +33,4 @@ payload:
   - DOMAIN-SUFFIX,now.com.hk
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-SUFFIX,nowe.hk
+
