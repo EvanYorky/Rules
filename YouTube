@@ -1,5 +1,4 @@
 payload:
-  #YouTube规则集
   - DOMAIN-KEYWORD,youtube
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN,yt3.ggpht.com
