@@ -101,6 +101,26 @@ payload:
   - DOMAIN-SUFFIX,dropbox.com
   - DOMAIN-SUFFIX,dropboxapi.com
   - DOMAIN-SUFFIX,resilio.com
+  - DOMAIN-SUFFIX,duckduckgo.com
+  - DOMAIN-SUFFIX,startpage.com
+  - DOMAIN-SUFFIX,wolframalpha.com
+  - DOMAIN-SUFFIX,archive.org
+  - DOMAIN-SUFFIX,torproject.org
+  - DOMAIN-SUFFIX,openvpn.net
+  - DOMAIN-SUFFIX,box.com
+  - DOMAIN-SUFFIX,mega.nz
+  - DOMAIN-SUFFIX,wetransfer.com
+  - DOMAIN-SUFFIX,elastic.co
+  - DOMAIN-SUFFIX,maven.org
+  - DOMAIN-SUFFIX,sonatype.org
+  - DOMAIN-SUFFIX,spring.io
+  - DOMAIN-SUFFIX,redhat.com
+  - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,canonical.com
+  - DOMAIN-SUFFIX,slack.com
+  - DOMAIN-SUFFIX,slack-edge.com
+  - DOMAIN-SUFFIX,trello.com
+  - DOMAIN-SUFFIX,atlassian.com
 
 # Amazon & AWS
   - DOMAIN-SUFFIX,amazonaws.com
@@ -125,12 +145,20 @@ payload:
   - DOMAIN-SUFFIX,iwara.tv
 
 # Misc / News / Communication / Regional Catch-all
+  - DOMAIN-SUFFIX,vimeo.com
+  - DOMAIN-SUFFIX,soundcloud.com
+  - DOMAIN-SUFFIX,hulu.com
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,wikimedia.org
   - DOMAIN-SUFFIX,wikileaks.org
   - DOMAIN-SUFFIX,archive.org
   - DOMAIN-SUFFIX,bloomberg.com
   - DOMAIN-SUFFIX,zoom.us
+  - DOMAIN-SUFFIX,wsj.com
+  - DOMAIN-SUFFIX,nytimes.com
+  - DOMAIN-SUFFIX,bbc.com
+  - DOMAIN-SUFFIX,cnn.com
+  - DOMAIN-SUFFIX,reuters.com
   - DOMAIN-SUFFIX,eu
   - DOMAIN-SUFFIX,kr
   - DOMAIN-SUFFIX,sg
