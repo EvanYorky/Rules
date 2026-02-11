@@ -1,4 +1,3 @@
-#Google规则集
 payload:
   - DOMAIN,voice.telephony.goog
   - DOMAIN-SUFFIX,0emm.com
@@ -707,3 +706,4 @@ payload:
   - PROCESS-NAME,com.google.android.gsf
   - PROCESS-NAME,com.google.android.play.games
   - PROCESS-NAME,BackupandSync
+
