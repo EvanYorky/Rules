@@ -33,4 +33,5 @@ payload:
   - DOMAIN-SUFFIX,onetrust.com
   - DOMAIN-KEYWORD,netflixdnstest
   - PROCESS-NAME,com.netflix.mediaclient
-
+  - DOMAIN-KEYWORD,dualstack.apiproxy-
+  - DOMAIN-KEYWORD,dualstack.ichnaea-web-
