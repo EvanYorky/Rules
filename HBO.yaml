@@ -22,8 +22,6 @@ payload:
   - DOMAIN-SUFFIX,hbounify-prod.evergent.com
   - DOMAIN-SUFFIX,hbolb.onwardsmg.com
   - DOMAIN-SUFFIX,youboranqs01.com
-  - DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
-  - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,hboasia.com
   - DOMAIN-SUFFIX,hbogo.com
   - DOMAIN-SUFFIX,hbogo.eu
