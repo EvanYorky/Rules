@@ -63,6 +63,11 @@ payload:
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,kakao.com
+  - DOMAIN-SUFFIX,inoreader.com
+  - DOMAIN-SUFFIX,innoreader.com
+  - DOMAIN-SUFFIX,tweetdeck.com
+  - DOMAIN-SUFFIX,periscope.tv
+  - DOMAIN-SUFFIX,pscp.tv
 
 # Streaming: Twitch / Spotify
   - DOMAIN-SUFFIX,twitch.tv
