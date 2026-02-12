@@ -4,11 +4,18 @@ payload:
   - DOMAIN-SUFFIX,hktvmall.com
 
   # WhatsApp
-  - DOMAIN-SUFFIX,whatsapp.net
-  - DOMAIN-SUFFIX,whatsapp.com
   - DOMAIN-SUFFIX,wa.me
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-SUFFIX,whatsapp.org
+  - DOMAIN-SUFFIX,whatsapp.tv
+  - DOMAIN-KEYWORD,whatsapp
 
   # Emby / Pikpak
   - DOMAIN-SUFFIX,mypikpak.com
   - DOMAIN-SUFFIX,emby.as174.com
   - DOMAIN-SUFFIX,mb3admin.com
+
+  # porn
+  - DOMAIN-SUFFIX,javday.app
+  - DOMAIN-SUFFIX,javday.homes  
