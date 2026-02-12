@@ -45,5 +45,7 @@ payload:
   - DOMAIN-SUFFIX,now.com.hk
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-SUFFIX,nowe.hk
+  - DOMAIN-SUFFIX,beam-svc.com
   - PROCESS-NAME,com.wbd.stream
   - PROCESS-NAME,com.hbo.hbonow
+
