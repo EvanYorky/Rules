@@ -30,7 +30,6 @@ payload:
   - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,marscode.com
   - DOMAIN,trae-api-sg.mchost.guru
-  - PROCESS-NAME,com.zhiliaoapp.musically
 
 # Meta: Facebook / Instagram / Oculus
   - DOMAIN-SUFFIX,facebook.com
