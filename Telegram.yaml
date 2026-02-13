@@ -1,9 +1,4 @@
 payload:
-  - PROCESS-NAME,Telegram.exe
-  - PROCESS-NAME,telegram-desktop
-  - PROCESS-NAME,Telegram
-  - PROCESS-NAME,org.telegram.messenger
-  - PROCESS-NAME,org.telegram.plus
   - IP-ASN,44907,no-resolve
   - IP-ASN,62014,no-resolve
   - IP-ASN,62041,no-resolve
@@ -35,3 +30,4 @@ payload:
   - IP-CIDR6,2001:b28:f23f::/48,no-resolve
   - IP-CIDR6,2001:b28:f23c::/47,no-resolve
   - IP-CIDR6,2a0a:f280::/29,no-resolve
+
