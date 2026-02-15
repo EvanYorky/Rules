@@ -1,4 +1,27 @@
 payload:
+
+# > 用户界面与主服务
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,makersuite.google.com
+  - DOMAIN-SUFFIX,aistudio.google.com
+  
+  # > DeepMind 与底层 AI 架构
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,ai.google.dev
+  
+  # > 核心 API 与后端服务 (建议精确匹配，防止误伤其他 Google API)
+  - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN,proactivebackend-pa.googleapis.com
+  - DOMAIN,aisandbox-pa.googleapis.com
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
+  
+  # > 移动端助手与语音交互
+  - DOMAIN,robinfrontend-pa.googleapis.com
+
+
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,pplx.ai
   - DOMAIN,browser-intake-datadoghq.com
@@ -41,3 +64,4 @@ payload:
   - DOMAIN-SUFFIX,intercomcdn.com
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,segment.io
+
