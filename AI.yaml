@@ -31,9 +31,13 @@ payload:
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
+  - DOMAIN-SUFFIX,googlesyndication.com
   - DOMAIN,ai.google.dev
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN,optimizationguide-pa.googleapis.com
+  - DOMAIN,content-autofill.googleapis.com
+  - DOMAIN,optimizationguide-pa.googleapis.com
   - DOMAIN,makersuite.google.com
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,deepmind.com
@@ -53,3 +57,4 @@ payload:
   - DOMAIN-SUFFIX,intercomcdn.com
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,segment.io
+
