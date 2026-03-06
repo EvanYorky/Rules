@@ -5,10 +5,12 @@ payload:
   - DOMAIN-SUFFIX,yimg.com
   - DOMAIN-SUFFIX,yahoo.net
   - DOMAIN-SUFFIX,yahooapis.com
+  - DOMAIN-SUFFIX,oath.com  
 
   # Line
   - DOMAIN-SUFFIX,line-apps.com
   - DOMAIN-SUFFIX,line.me
   - DOMAIN-SUFFIX,line-scdn.net
   - DOMAIN-SUFFIX,ly.my.sentry.io
+
 
