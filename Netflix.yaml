@@ -46,3 +46,5 @@ payload:
   - IP-CIDR,192.173.64.0/18,no-resolve
   - IP-CIDR,198.38.96.0/19,no-resolve
   - IP-CIDR,198.45.48.0/20,no-resolve
+# 腾讯新加坡云
+  - IP-CIDR,43.156.202.96/32,no-resolve
