@@ -54,4 +54,4 @@ payload:
   - DOMAIN-SUFFIX,intercomcdn.com
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,segment.io
-  - DOMAIN-SUFFIX,z.ai
+  #- DOMAIN-SUFFIX,z.ai
