@@ -41,9 +41,6 @@ payload:
   - DOMAIN,cdn.usefathom.com  
   - IP-CIDR,24.199.123.28/32,no-resolve
   - IP-CIDR,64.23.132.171/32,no-resolve
-  - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN,copilot.microsoft.com
@@ -54,4 +51,7 @@ payload:
   - DOMAIN-SUFFIX,intercomcdn.com
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,segment.io
+  #- DOMAIN-SUFFIX,anthropic.com
+  #- DOMAIN-SUFFIX,claude.ai
+  #- DOMAIN-SUFFIX,claude.com
   #- DOMAIN-SUFFIX,z.ai
