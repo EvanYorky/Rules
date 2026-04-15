@@ -4,12 +4,20 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudeusercontent.com
-
-  # === Claude 强关联第三方组件 ===
+  
+  # === 关键验证与加速 ===
+  - DOMAIN,challenges.cloudflare.com
+  - DOMAIN,cdn.usefathom.com
+  
+  # === 支付与监控 ===
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,sentry.io
+  
+  # === 功能开关 ===
   - DOMAIN-SUFFIX,statsig.com
   - DOMAIN-SUFFIX,featuregates.org
   - DOMAIN-SUFFIX,launchdarkly.com
+  
+  # === 客服 ===
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,intercomcdn.com
