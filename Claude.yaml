@@ -3,11 +3,13 @@ payload:
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
-  - DOMAIN-SUFFIX,claudeusercontent.com # 【重要补充】用于 Artifacts 预览、代码片段和文件上传
+  - DOMAIN-SUFFIX,claudeusercontent.com
 
   # === Claude 强关联第三方组件 ===
-  - DOMAIN,cdn.usefathom.com            # 官网数据分析
-  - DOMAIN-SUFFIX,intercom.io           # 网页客服通信
-  - DOMAIN-SUFFIX,intercomcdn.com       # 客服组件静态资源
-  - DOMAIN-SUFFIX,sentry.io             # 【补充】前端错误日志上报，拦截可能导致页面卡死或异常
-  - DOMAIN-SUFFIX,stripe.com            # 【补充】支付网关，保证续费和日常使用IP一致
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,statsig.com
+  - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
