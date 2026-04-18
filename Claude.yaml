@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,claudeusercontent.com
 
   # === 关键验证与加速 ===
-  - DOMAIN,challenges.cloudflare.com
+  #- DOMAIN,challenges.cloudflare.com
   - DOMAIN,cdn.usefathom.com
 
   # === 支付与监控 ===
