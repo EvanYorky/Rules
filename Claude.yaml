@@ -10,8 +10,8 @@ payload:
   - DOMAIN,cdn.usefathom.com
 
   # === 支付与监控 ===
-  - DOMAIN-SUFFIX,stripe.com
-  - DOMAIN,o1158394.ingest.us.sentry.io
+  #- DOMAIN-SUFFIX,stripe.com
+  #- DOMAIN,o1158394.ingest.us.sentry.io
   - DOMAIN,browser-intake-us5-datadoghq.com
 
   # === 功能开关 ===
