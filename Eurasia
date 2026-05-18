@@ -1,0 +1,11 @@
+payload:
+  # N26 核心专属域名
+  - n26.com
+  - tech26.de
+  - number26.de
+
+  # N26 强依赖的第三方合规/风控/分析
+  - usercentrics.eu
+  - adjust.com
+  - bugsnag.com
+  - prodregistryv2.org
