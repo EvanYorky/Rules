@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,mixpanel.com
   - DOMAIN-SUFFIX,sardine.ai
   - DOMAIN-SUFFIX,sc.com
+  - DOMAIN-KEYWORD,fundsupermart
 
 # 腾讯 (Tencent - 国内版)
   - DOMAIN-SUFFIX,qq.com
