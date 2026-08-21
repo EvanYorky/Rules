@@ -48,7 +48,6 @@ payload:
   - DOMAIN-SUFFIX,intercomcdn.com
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,segment.io
-  #- DOMAIN-SUFFIX,z.ai
 #Claude AI
   # 核心域名
   - DOMAIN-SUFFIX,anthropic.com
