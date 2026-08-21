@@ -18,3 +18,5 @@ payload:
 
   # Prime Video DASH 视频流特征
   - DOMAIN-KEYWORD,avoddashs
+  - DOMAIN-KEYWORD,vod-hls-pv
+  - DOMAIN-SUFFIX,minerva.devices.a2z.com
