@@ -1,17 +1,20 @@
 payload:
-  # Prime Video
+  # Prime Video 主站 / API
   - DOMAIN-SUFFIX,primevideo.com
   - DOMAIN-SUFFIX,amazonvideo.com
-  - DOMAIN-SUFFIX,media-amazon.com
-  - DOMAIN-SUFFIX,video.a2z.com
 
-  # Prime Video CDN
+  # Prime Video 视频 CDN
+  - DOMAIN-SUFFIX,pv-cdn.net
   - DOMAIN-SUFFIX,aiv-cdn.net
   - DOMAIN-SUFFIX,aiv-delivery.net
   - DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
 
-  # CloudFront
+  # Prime Video / Amazon 媒体资源
+  - DOMAIN-SUFFIX,media-amazon.com
+  - DOMAIN-SUFFIX,video.a2z.com
+
+  # 实测 CloudFront
   - DOMAIN,d1v5ir2lpwr8os.cloudfront.net
 
-  # Video stream
+  # Prime Video DASH 视频流特征
   - DOMAIN-KEYWORD,avoddashs
