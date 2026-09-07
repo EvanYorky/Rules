@@ -1,6 +1,3 @@
 payload:
-  # N26 核心专属域名
-  - DOMAIN-SUFFIX,n26.com
-  - DOMAIN-SUFFIX,tech26.de
-  - DOMAIN-SUFFIX,number26.de
-  - DOMAIN-SUFFIX,usercentrics.eu
+  # 土耳其Apple礼品卡
+  - DOMAIN-SUFFIX,oyunfor.com
