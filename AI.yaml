@@ -1,4 +1,7 @@
 payload:
+  # ==========================================
+  # Google Gemini / AI Studio
+  # ==========================================
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,makersuite.google.com
@@ -12,44 +15,76 @@ payload:
   - DOMAIN,aisandbox-pa.googleapis.com
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,robinfrontend-pa.googleapis.com
+
+  # ==========================================
+  # Perplexity AI / Computer
+  # ==========================================
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,pplx.ai
-  - DOMAIN,browser-intake-datadoghq.com
+
+  # ==========================================
+  # OpenAI / ChatGPT / Codex
+  # ==========================================
+  # 核心域名
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+
+  # API / CDN / 静态资源
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
   - DOMAIN,openai-api.arkoselabs.com
   - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
   - DOMAIN,production-openaicom-storage.azureedge.net
-  - DOMAIN-SUFFIX,ai.com
-  - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,openaicom.imgix.net
   - DOMAIN-SUFFIX,client-api.arkoselabs.com
-  - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,oaiusercontent.com
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-KEYWORD,openai
+
+  # 语音 / 实时通信
+  - DOMAIN-SUFFIX,chatgpt.livekit.cloud
   - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN-SUFFIX,turn.livekit.cloud
+
+  # 遥测 / 功能配置
+  - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,api.statsig.com
   - DOMAIN-SUFFIX,events.statsigapi.net
   - DOMAIN-SUFFIX,featuregates.org
-  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-  - DOMAIN-SUFFIX,openaicom.imgix.net
   - DOMAIN-SUFFIX,observeit.net
-  - DOMAIN,cdn.usefathom.com  
+
+  # IP 规则
   - IP-CIDR,24.199.123.28/32,no-resolve
   - IP-CIDR,64.23.132.171/32,no-resolve
+
+  # ==========================================
+  # Grok / xAI / Grok Bot
+  # ==========================================
+  # Grok / xAI 核心域名
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,grok.com
+
+  # Grok Bot 核心接口 / 认证
+  - DOMAIN-SUFFIX,cursor.sh
+  - DOMAIN-SUFFIX,cursor.com
+
+  # Grok Bot 云端计算机
+  - DOMAIN-SUFFIX,cursorvm.com
+
+  # Grok Bot CDN / 扩展接口
+  - DOMAIN-SUFFIX,cursor-cdn.com
+  - DOMAIN-SUFFIX,cursorapi.com
+
+  # ==========================================
+  # Microsoft Copilot
+  # ==========================================
   - DOMAIN,copilot.microsoft.com
-  - DOMAIN-SUFFIX,cursor.sh  
-  - DOMAIN-SUFFIX,chorus.sh
-  - DOMAIN-SUFFIX,algolia.net
-  - DOMAIN-SUFFIX,intercom.io
-  - DOMAIN-SUFFIX,intercomcdn.com
-  - DOMAIN-SUFFIX,launchdarkly.com
-  - DOMAIN-SUFFIX,segment.io
-#Claude AI
+
+  # ==========================================
+  # Claude / Anthropic
+  # ==========================================
   # 核心域名
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
@@ -57,13 +92,27 @@ payload:
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claudemcpclient.com
   - DOMAIN-SUFFIX,claudeusercontent.com
+
   # CDN 和静态资源
   - DOMAIN,servd-anthropic-website.b-cdn.net
   - DOMAIN,anthropic.com.cdn.cloudflare.net
+
   # 认证 / 内容
   - DOMAIN,anthropic.auth0.com
   - DOMAIN,anthropic-com.ghost.io
+
   # IP 段 / ASN 兜底
   - IP-CIDR,160.79.104.0/21,no-resolve
   - IP-CIDR6,2607:6bc0::/48,no-resolve
   - IP-ASN,399358,no-resolve
+
+  # ==========================================
+  # AI 相关第三方公共服务
+  # ==========================================
+  - DOMAIN-SUFFIX,chorus.sh
+  - DOMAIN-SUFFIX,algolia.net
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-SUFFIX,segment.io
+  - DOMAIN,cdn.usefathom.com
