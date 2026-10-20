@@ -78,9 +78,15 @@ payload:
   - DOMAIN-SUFFIX,cursorapi.com
 
   # ==========================================
-  # Microsoft Copilot
+  # Microsoft Copilot & Meta Muse
   # ==========================================
   - DOMAIN,copilot.microsoft.com
+  # Meta Muse
+  - DOMAIN-SUFFIX,muse.ai
+  - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN,graph.facebook.com
 
   # ==========================================
   # Claude / Anthropic
@@ -102,9 +108,9 @@ payload:
   - DOMAIN,anthropic-com.ghost.io
 
   # 付款
-  - DOMAIN,js.stripe.com
-  - DOMAIN,api.stripe.com
-  - DOMAIN,m.stripe.network
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,stripe.network
+  - DOMAIN-SUFFIX,link.com
 
   # IP 段 / ASN 兜底
   - IP-CIDR,160.79.104.0/21,no-resolve
