@@ -113,7 +113,7 @@ payload:
   - DOMAIN-SUFFIX,metaaivm.com
   - DOMAIN-SUFFIX,muse.ai
   - DOMAIN-SUFFIX,meta.ai
-  - DOMAIN,ai.meta.com
+  - DOMAIN-SUFFIX,meta.com
   - DOMAIN-SUFFIX,metaaiusercontent.com
   - DOMAIN-SUFFIX,ecto1usercontent.com
   - DOMAIN-SUFFIX,meta-agents-apps.workers.dev
