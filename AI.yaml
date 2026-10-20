@@ -110,6 +110,7 @@ payload:
   # Microsoft Copilot & Meta Muse
   # ==========================================
   - DOMAIN,copilot.microsoft.com
+  - DOMAIN-SUFFIX,metaaivm.com
   - DOMAIN-SUFFIX,muse.ai
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN,ai.meta.com
