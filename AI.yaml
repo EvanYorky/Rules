@@ -81,9 +81,12 @@ payload:
   # Microsoft Copilot & Meta Muse
   # ==========================================
   - DOMAIN,copilot.microsoft.com
-  # Meta Muse
   - DOMAIN-SUFFIX,muse.ai
   - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN,ai.meta.com
+  - DOMAIN-SUFFIX,metaaiusercontent.com
+  - DOMAIN-SUFFIX,ecto1usercontent.com
+  - DOMAIN-SUFFIX,meta-agents-apps.workers.dev
   - DOMAIN-SUFFIX,whatsapp.net
   - DOMAIN-SUFFIX,whatsapp.com
   - DOMAIN,graph.facebook.com
