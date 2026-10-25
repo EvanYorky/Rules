@@ -170,3 +170,19 @@ payload:
   - DOMAIN-SUFFIX,thisispolaris.com
   - DOMAIN-SUFFIX,watchdisneyfe.com
   - DOMAIN-SUFFIX,watchespn.com
+  # ==========================================
+  # Bybit - 台湾节点（13条）
+  # ==========================================
+  - DOMAIN-SUFFIX,bybit.com
+  - DOMAIN-SUFFIX,bybitglobal.com
+  - DOMAIN-SUFFIX,bybit.biz
+  - DOMAIN-SUFFIX,byapps.net
+  - DOMAIN-SUFFIX,bybdc6.com
+  - DOMAIN-SUFFIX,bycsi.com
+  - DOMAIN-SUFFIX,bytick.com
+  - DOMAIN-SUFFIX,byapis.com
+  - DOMAIN-SUFFIX,bycbe.com
+  - DOMAIN-SUFFIX,bymj.io
+  - DOMAIN-SUFFIX,byabcde.com
+  - DOMAIN-SUFFIX,byd3c3.com
+  - DOMAIN-SUFFIX,wsot2022.com
