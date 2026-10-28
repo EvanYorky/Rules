@@ -7,6 +7,6 @@ payload:
   - DOMAIN-SUFFIX,mayabank.ph
   - DOMAIN-SUFFIX,paymaya.com
   - DOMAIN-SUFFIX,voyagerapis.com
-  - DOMAIN,boost-maya-ads-service-proxy-production.voyagerapis.com
   - DOMAIN,api-dbf8849d-7743-453f-88dd-a4ffe93ff9cb.sendbird.com
+  - DOMAIN,dsgpa3dhuu5lr.cloudfront.net
   
