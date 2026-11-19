@@ -19,6 +19,8 @@ payload:
   # porn
   - DOMAIN-SUFFIX,javday.app
   - DOMAIN-SUFFIX,javday.homes
+  - DOMAIN-SUFFIX,huangguoai.fit
+  - DOMAIN-SUFFIX,huangguoai.com
 
   # Discord
   - DOMAIN-SUFFIX,discord.com
